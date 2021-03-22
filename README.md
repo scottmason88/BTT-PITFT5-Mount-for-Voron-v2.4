@@ -9,7 +9,7 @@ Required Materials:
 2x M5x10 BHCS<br>
 4x Heatset Inserts<br>
 1x [BTT PI TFT 5 inch](https://www.amazon.com/dp/B08F1WMQ1J/ref=cm_sw_em_r_mt_dp_X6HDGQYNXN14MC008QEW?_encoding=UTF8&psc=1)<br>
-1x [Extended Ribbon Cable](https://www.amazon.com/gp/product/B00I6LJ19G/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)<br>
+1x Extended Ribbon Cable<br>
 
 Step 1: 
 ![Step 1](https://raw.githubusercontent.com/smaseface/BTT-PITFT5-Mount-for-Voron-v2.4/main/step%201.png)
